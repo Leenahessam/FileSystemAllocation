@@ -1,0 +1,5 @@
+CreateFile root/file.txt 100
+CreateFolder root/folder1
+DeleteFile root/folder1/file.txt
+DeleteFolder root/folder1
+DisplayDiskStatus
